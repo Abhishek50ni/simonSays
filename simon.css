@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+h2{
+    text-align: center;
+}
+#maindiv{
+    display: flex;
+    flex-wrap: wrap;
+    width: 450px;
+}
+.btn{
+    border: 7px solid black;
+    border-radius: 16px;
+    width: 200px;
+    height: 200px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.purple{
+    background-color: rgb(133, 29, 151);
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: rgb(250, 246, 226);
+}
